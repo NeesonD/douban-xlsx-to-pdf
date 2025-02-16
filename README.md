@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## 运行程序
-先通过https://github.com/doufen-org/tofu插件导出xlsx，将xlsx文件放到当前目录
+先通过 https://github.com/doufen-org/tofu 插件导出xlsx，将xlsx文件放到当前目录
 
 要运行程序，请使用以下命令：
 
